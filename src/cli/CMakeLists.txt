@@ -39,6 +39,7 @@ set(cli_SOURCES
         Merge.cpp
         Move.cpp
         Open.cpp
+        PluginData.cpp
         Remove.cpp
         RemoveGroup.cpp
         Search.cpp
